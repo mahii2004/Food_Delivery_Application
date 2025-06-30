@@ -50,3 +50,26 @@ food-delivery-app/
 
 ---
 
+### 📦 Features
+- 🔍 Browse food items by category
+
+- 🛒 Add to cart & place orders
+
+- ✅ User authentication (optional with Spring Security)
+
+- 🧾 Order history
+
+- 📦 Admin panel for managing menu
+
+---
+
+### 🙋‍♂️ Author
+Mahendra Dadibathina
+
+- GitHub: mahi2004
+
+ - LinkedIn: https://www.linkedin.com/in/mahendra-dadibathina-0417751b1
+
+- Email: mahendradadibathina@gmail.com
+
+
