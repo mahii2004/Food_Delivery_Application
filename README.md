@@ -26,12 +26,12 @@ A full-stack **Food Delivery Web Application** built using **Spring Boot (Java)*
 ## 📂 Project Structure
 
 food-delivery-app/
--├── backend/ (Spring Boot)
--│ ├── src/
--│ ├── pom.xml
--│ └── application.properties
--├── frontend/ (React)
--│ ├── src/
--│ ├── public/
--│ └── package.json
+- ├── backend/ (Spring Boot)
+- │ ├── src/
+- │ ├── pom.xml
+- │ └── application.properties
+- ├── frontend/ (React)
+- │ ├── src/
+- │ ├── public/
+- │ └── package.json
 
