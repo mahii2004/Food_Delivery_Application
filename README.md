@@ -35,3 +35,18 @@ food-delivery-app/
 - │ ├── public/
 - │ └── package.json
 
+---
+
+### 🔐 API Endpoints (Sample)
+ - GET /api/foods — Get all food items
+
+ - POST /api/orders — Place an order
+
+ - GET /api/users/{id} — Get user info
+
+ - POST /api/login — Login API
+
+# API base URL: http://localhost:8080/api/
+
+---
+
