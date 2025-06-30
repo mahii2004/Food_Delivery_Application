@@ -66,7 +66,7 @@ food-delivery-app/
 ### 🙋‍♂️ Author
 Mahendra Dadibathina
 
-- GitHub: mahi2004
+- GitHub: https://www.github.com/mahi2004
 
  - LinkedIn: https://www.linkedin.com/in/mahendra-dadibathina-0417751b1
 
