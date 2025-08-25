@@ -11,7 +11,6 @@ import com.mahi.springboot.Entity.menuList;
 import com.mahi.springboot.Service.menuListService;
 
 @RestController
-@CrossOrigin("http://localhost:5173")
 public class menuListController {
    
 	@Autowired
