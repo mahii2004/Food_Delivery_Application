@@ -12,7 +12,6 @@ import com.mahi.springboot.Entity.Assets;
 import com.mahi.springboot.Service.AssetsService;
 
 @RestController
-@CrossOrigin("http://localhost:5173")
 public class AssetsController {
     
 	@Autowired
