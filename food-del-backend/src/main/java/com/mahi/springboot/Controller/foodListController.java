@@ -13,7 +13,6 @@ import com.mahi.springboot.Entity.foodList;
 import com.mahi.springboot.Service.foodListService;
 
 @RestController
-@CrossOrigin("http://localhost:5173")
 public class foodListController {
 	
 	@Autowired
